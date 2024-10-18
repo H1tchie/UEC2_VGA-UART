@@ -1,0 +1,10 @@
+Warnings, critical warnings and errors from synthesis and implementation
+
+Created: 2024-06-20 01:13:16
+
+----SYNTHESIS----
+WARNING: [Synth 8-7129] Port clk in module imem is either unconnected or has no load
+WARNING: [Synth 8-7080] Parallel synthesis criteria is not met
+
+----IMPLEMENTATION----
+CLEAR :)
